@@ -10,7 +10,7 @@
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rinnoca ora &gt;&gt;</translation>
     </message>
     <message>
         <source>Your subscription has expired</source>
