@@ -10,30 +10,30 @@
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rinnova Ora &gt;&gt;</translation>
     </message>
     <message>
         <source>Your subscription has expired</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L'abbonamento è scaduto</translation>
     </message>
 </context>
 <context>
     <name>KBubbleTipManager</name>
     <message>
         <source>You try %1 days, and %2 days left. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 giorni provati, %2 giorni mancanti. &lt;br/&gt;Dopo il periodo di prova, non potrai usare il normale utilizzo del prodotto. &lt;br/&gt; Per evitarlo, per favore compra WPS Office.</translation>
     </message>
     <message>
         <source>The probation period is about to expire</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Il periodo di prova sta per scadere</translation>
     </message>
     <message>
         <source>Buy Now &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Compra Ora &gt;&gt;</translation>
     </message>
     <message>
         <source>You hava Authorized %1 days remaining. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 giorni rimanenti. &lt;br/&gt;Dopo il periodo di prova, non potrai usare il normale utilizzo del prodotto. &lt;br/&gt; Per evitarlo, per favore compra WPS Office.</translation>
     </message>
     <message>
         <source>The Authorize period is about to expire</source>
